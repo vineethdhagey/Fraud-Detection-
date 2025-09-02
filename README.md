@@ -2,6 +2,8 @@
 An end-to-end Fraud Detection System built with Machine Learning and a Streamlit Dashboard.
 This project detects fraudulent transactions in financial data, visualizes patterns, and allows exporting fraud cases for further investigation.
 
+I obtained the dataset from the following: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+
 
 # 🚀Features
 
